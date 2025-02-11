@@ -1,0 +1,1 @@
+"use strict";(this.webpackJsonp_MyAppLibrary=this.webpackJsonp_MyAppLibrary||[]).push([[591],{51591:e=>{e.exports=function(){throw new Error("ws does not work in the browser. Browser clients must use the native WebSocket object")}}}]);
